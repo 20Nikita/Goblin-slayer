@@ -1,0 +1,40 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="игрок1.png" transparentColor="">
+ <animation title="стоит" delay="120">
+  <cut w="129" x="10" y="2" h="156" row="1" col="1"/>
+  <cut w="125" x="173" y="2" h="157" row="1" col="1"/>
+  <cut w="127" x="334" y="2" h="158" row="1" col="1"/>
+ </animation>
+ <animation title="выстрел" delay="120">
+  <cut w="124" x="24" y="645" h="155" row="1" col="1"/>
+  <cut w="94" x="186" y="645" h="155" row="1" col="1"/>
+  <cut w="134" x="357" y="639" h="159" row="1" col="1"/>
+  <cut w="157" x="523" y="639" h="159" row="1" col="1"/>
+  <cut w="105" x="716" y="640" h="157" row="1" col="1"/>
+  <cut w="105" x="716" y="640" h="157" row="1" col="1"/>
+ </animation>
+ <animation title="идет" delay="120">
+  <cut w="137" x="643" y="1" h="159" row="1" col="1"/>
+  <cut w="134" x="801" y="1" h="157" row="1" col="1"/>
+  <cut w="130" x="0" y="165" h="157" row="1" col="1"/>
+  <cut w="132" x="158" y="165" h="152" row="1" col="1"/>
+  <cut w="134" x="322" y="164" h="154" row="1" col="1"/>
+  <cut w="125" x="499" y="163" h="156" row="1" col="1"/>
+  <cut w="111" x="667" y="167" h="152" row="1" col="1"/>
+  <cut w="120" x="822" y="164" h="155" row="1" col="1"/>
+ </animation>
+ <animation title="бег" delay="100">
+  <cut w="122" x="18" y="325" h="152" row="1" col="1"/>
+  <cut w="131" x="169" y="327" h="149" row="1" col="1"/>
+  <cut w="131" x="328" y="329" h="151" row="1" col="1"/>
+  <cut w="111" x="506" y="325" h="153" row="1" col="1"/>
+  <cut w="122" x="658" y="325" h="152" row="1" col="1"/>
+  <cut w="131" x="805" y="328" h="146" row="1" col="1"/>
+  <cut w="132" x="7" y="488" h="146" row="1" col="1"/>
+  <cut w="109" x="187" y="485" h="147" row="1" col="1"/>
+ </animation>
+ <animation title="остановка" delay="120">
+  <cut w="127" x="818" y="482" h="156" row="1" col="1"/>
+  <cut w="127" x="818" y="482" h="156" row="1" col="1"/>
+ </animation>
+</sprites>

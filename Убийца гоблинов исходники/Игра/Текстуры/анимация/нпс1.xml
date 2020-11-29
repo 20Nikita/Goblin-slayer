@@ -1,0 +1,77 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="нпс1.png" transparentColor="">
+ <animation title="бег" delay="140">
+  <cut w="125" x="1" y="143" h="103" row="1" col="1"/>
+  <cut w="108" x="127" y="143" h="101" row="1" col="1"/>
+  <cut w="100" x="237" y="143" h="102" row="1" col="1"/>
+  <cut w="113" x="339" y="143" h="105" row="1" col="1"/>
+  <cut w="138" x="453" y="143" h="107" row="1" col="1"/>
+  <cut w="134" x="592" y="143" h="107" row="1" col="1"/>
+  <cut w="123" x="727" y="143" h="105" row="1" col="1"/>
+  <cut w="96" x="851" y="143" h="105" row="1" col="1"/>
+  <cut w="101" x="949" y="143" h="105" row="1" col="1"/>
+ </animation>
+ <animation title="стоит" delay="140">
+  <cut w="111" x="1328" y="590" h="158" row="1" col="1"/>
+  <cut w="104" x="1439" y="590" h="158" row="1" col="1"/>
+  <cut w="111" x="1544" y="590" h="158" row="1" col="1"/>
+ </animation>
+ <animation title="удар" delay="140">
+  <cut w="111" x="0" y="421" h="154" row="1" col="1"/>
+  <cut w="111" x="113" y="421" h="150" row="1" col="1"/>
+  <cut w="220" x="224" y="421" h="151" row="1" col="1"/>
+  <cut w="128" x="444" y="421" h="173" row="1" col="1"/>
+  <cut w="130" x="574" y="421" h="168" row="1" col="1"/>
+  <cut w="147" x="706" y="422" h="154" row="1" col="1"/>
+  <cut w="115" x="854" y="421" h="152" row="1" col="1"/>
+  <cut w="111" x="970" y="421" h="162" row="1" col="1"/>
+ </animation>
+ <animation title="смерть" delay="140">
+  <cut w="137" x="1285" y="421" h="167" row="1" col="1"/>
+  <cut w="137" x="1425" y="421" h="149" row="1" col="1"/>
+  <cut w="120" x="1563" y="421" h="136" row="1" col="1"/>
+  <cut w="133" x="1684" y="421" h="126" row="1" col="1"/>
+  <cut w="161" x="1818" y="421" h="121" row="1" col="1"/>
+  <cut w="191" x="1" y="590" h="61" row="1" col="1"/>
+  <cut w="192" x="194" y="590" h="58" row="1" col="1"/>
+ </animation>
+ <animation title="смерть1" delay="140">
+  <cut w="137" x="1285" y="421" h="167" row="1" col="1"/>
+  <cut w="137" x="1285" y="421" h="167" row="1" col="1"/>
+ </animation>
+ <animation title="смерть2" delay="140">
+  <cut w="137" x="1425" y="421" h="149" row="1" col="1"/>
+  <cut w="137" x="1425" y="421" h="149" row="1" col="1"/>
+   </animation>
+ <animation title="смерть3" delay="140">
+  <cut w="120" x="1563" y="421" h="136" row="1" col="1"/>
+  <cut w="120" x="1563" y="421" h="136" row="1" col="1"/>
+   </animation>
+ <animation title="смерть4" delay="140">
+  <cut w="133" x="1684" y="421" h="126" row="1" col="1"/>
+  <cut w="133" x="1684" y="421" h="126" row="1" col="1"/> </animation>
+ <animation title="смерть5" delay="140">
+  <cut w="161" x="1818" y="421" h="121" row="1" col="1"/>
+  <cut w="161" x="1818" y="421" h="121" row="1" col="1"/> </animation>
+ <animation title="смерть6" delay="140">
+  <cut w="191" x="1" y="590" h="61" row="1" col="1"/>
+  <cut w="191" x="1" y="590" h="61" row="1" col="1"/>
+ </animation>
+ <animation title="смерть7" delay="140">
+  <cut w="192" x="194" y="590" h="58" row="1" col="1"/>
+  <cut w="192" x="194" y="590" h="58" row="1" col="1"/>
+ </animation>
+ <animation title="удар2" delay="140">
+  <cut w="111" x="943" y="1401" h="155" row="1" col="1"/>
+  <cut w="134" x="1055" y="1402" h="131" row="1" col="1"/>
+  <cut w="153" x="1190" y="1401" h="146" row="1" col="1"/>
+  <cut w="241" x="1344" y="1401" h="151" row="1" col="1"/>
+  <cut w="137" x="1588" y="1401" h="157" row="1" col="1"/>
+  <cut w="140" x="1727" y="1401" h="156" row="1" col="1"/>
+  <cut w="139" x="1586" y="1401" h="157" row="1" col="1"/>
+  <cut w="241" x="1344" y="1401" h="151" row="1" col="1"/>
+  <cut w="153" x="1190" y="1401" h="146" row="1" col="1"/>
+  <cut w="134" x="1055" y="1401" h="131" row="1" col="1"/>
+  <cut w="111" x="943" y="1401" h="155" row="1" col="1"/>
+ </animation>
+</sprites>

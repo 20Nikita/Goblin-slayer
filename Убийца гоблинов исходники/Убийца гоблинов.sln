@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Игра", "Игра\Игра.vcxproj", "{9176F884-3A5D-4BCE-8356-75ECF620E834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Debug|x64.ActiveCfg = Debug|x64
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Debug|x64.Build.0 = Debug|x64
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Debug|x86.ActiveCfg = Debug|Win32
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Debug|x86.Build.0 = Debug|Win32
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Release|x64.ActiveCfg = Release|x64
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Release|x64.Build.0 = Release|x64
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Release|x86.ActiveCfg = Release|Win32
+		{9176F884-3A5D-4BCE-8356-75ECF620E834}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A3A142-1A1A-45E1-8C46-C15307A84976}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,96 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="халк.png" transparentColor="">
+ <animation title="идет" delay="150">
+  <cut w="104" x="8" y="318.5" h="119" row="1" col="1"/>
+  <cut w="74" x="130" y="321" h="117" row="1" col="1"/>
+  <cut w="124" x="238" y="322" h="116" row="1" col="1"/>
+  <cut w="94" x="370" y="321" h="117" row="1" col="1"/>
+  <cut w="93" x="479" y="321" h="117" row="1" col="1"/>
+  <cut w="122" x="600" y="324" h="114" row="1" col="1"/>
+ </animation>
+ <animation title="начало прыжка" delay="150">
+  <cut w="83" x="8" y="454" h="121" row="1" col="1"/>
+<cut w="83" x="8" y="454" h="121" row="1" col="1"/>
+<cut w="83" x="8" y="454" h="121" row="1" col="1"/>
+ </animation>
+ <animation title="середина прыжка" delay="150">
+  <cut w="90" x="103" y="459" h="129" row="1" col="1"/>
+ </animation>
+ <animation title="приземление" delay="120">
+  <cut w="74" x="213" y="478" h="110" row="1" col="1"/>
+  <cut w="76" x="306" y="492" h="96" row="1" col="1"/>
+ <cut w="76" x="306" y="492" h="96" row="1" col="1"/>
+ </animation>
+ <animation title="удар1" delay="150">
+  <cut w="83" x="6" y="601" h="116" row="1" col="1"/>
+  <cut w="149" x="110" y="605" h="112" row="1" col="1"/>
+  <cut w="149" x="271" y="605" h="112" row="1" col="1"/>
+ </animation>
+ <animation title="удар2" delay="150">
+  <cut w="89" x="435" y="613" h="104" row="1" col="1"/>
+  <cut w="89" x="543" y="613" h="104" row="1" col="1"/>
+  <cut w="111" x="647" y="614" h="103" row="1" col="1"/>
+  <cut w="134" x="775" y="614" h="103" row="1" col="1"/>
+ </animation>
+ <animation title="удар вверх" delay="150">
+  <cut w="82" x="7" y="751" h="117" row="1" col="1"/>
+  <cut w="120" x="112" y="726" h="142" row="1" col="1"/>
+  <cut w="106" x="253" y="727" h="141" row="1" col="1"/>
+ </animation>
+ <animation title="удар3" delay="150">
+  <cut w="91" x="424" y="154" h="147" row="1" col="1"/>
+  <cut w="126" x="528" y="159" h="142" row="1" col="1"/>
+  <cut w="131" x="664" y="210" h="94" row="1" col="1"/>
+  <cut w="121" x="804" y="210" h="94" row="1" col="1"/>
+ </animation>
+ <animation title="удар вниз" delay="150">
+  <cut w="107" x="8" y="919" h="87" row="1" col="1"/>
+  <cut w="139" x="126" y="919" h="87" row="1" col="1"/>
+ </animation>
+ <animation title="удар в прышке" delay="150">
+  <cut w="67" x="273" y="872" h="137" row="1" col="1"/>
+  <cut w="100" x="365" y="863" h="146" row="1" col="1"/>
+  <cut w="100" x="477" y="914" h="95" row="1" col="1"/>
+  <cut w="89" x="591" y="923" h="96" row="1" col="1"/>
+ </animation>
+ <animation title="удар" delay="150">
+  <cut w="102" x="6" y="1025" h="124" row="1" col="1"/>
+  <cut w="80" x="122" y="1024" h="125" row="1" col="1"/>
+  <cut w="78" x="230" y="1023" h="126" row="1" col="1"/>
+  <cut w="92" x="342" y="1026" h="125" row="1" col="1"/>
+  <cut w="121" x="461.5" y="1024" h="127" row="1" col="1"/>
+  <cut w="116" x="583" y="1027" h="125" row="1" col="1"/>
+  <cut w="95" x="704" y="1026" h="125" row="1" col="1"/>
+ </animation>
+ <animation title="урон" delay="150">
+  <cut w="84" x="7" y="1175" h="122" row="1" col="1"/>
+  <cut w="122" x="137" y="1227" h="66" row="1" col="1"/>
+  <cut w="135" x="270" y="1240" h="52" row="1" col="1"/>
+  <cut w="118" x="412" y="1206" h="84" row="1" col="1"/>
+  <cut w="118" x="541" y="1206" h="84" row="1" col="1"/>
+</animation>
+ <animation title="смерть" delay="150">
+  <cut w="84" x="7" y="1175" h="122" row="1" col="1"/>
+  <cut w="122" x="137" y="1227" h="66" row="1" col="1"/>
+  <cut w="135" x="270" y="1240" h="52" row="1" col="1"/>
+ </animation>
+<animation title="смерть1" delay="150">
+  <cut w="84" x="7" y="1175" h="122" row="1" col="1"/>
+  <cut w="84" x="7" y="1175" h="122" row="1" col="1"/>
+ </animation>
+<animation title="смерть2" delay="150">
+  <cut w="122" x="137" y="1227" h="66" row="1" col="1"/>
+  <cut w="122" x="137" y="1227" h="66" row="1" col="1"/> </animation>
+<animation title="смерть3" delay="150">
+  <cut w="135" x="270" y="1240" h="52" row="1" col="1"/>
+  <cut w="135" x="270" y="1240" h="52" row="1" col="1"/>
+ </animation>
+ <animation title="стоит" delay="150">
+  <cut w="81" x="11" y="187" h="120" row="1" col="1"/>
+  <cut w="80" x="108" y="187" h="120" row="1" col="1"/>
+  <cut w="81" x="200" y="192" h="115" row="1" col="1"/>
+ </animation>
+ <animation title="мускулы" delay="150">
+  <cut w="111" x="428" y="7" h="140" row="1" col="1"/>
+ </animation>
+</sprites>
