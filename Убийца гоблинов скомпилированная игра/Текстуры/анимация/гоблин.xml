@@ -1,0 +1,37 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="гоблин.png" transparentColor="">
+ <animation title="идет" delay="150">
+  <cut w="64" x="1" y="2" h="102" row="1" col="1"/>
+  <cut w="80" x="80" y="2" h="102" row="1" col="1"/>
+  <cut w="78" x="159" y="2" h="102" row="1" col="1"/>
+  <cut w="64" x="251" y="4" h="105" row="1" col="1"/>
+  <cut w="79" x="318" y="6" h="104" row="1" col="1"/>
+ </animation>
+ <animation title="удар" delay="80">
+  <cut w="106" x="6" y="125" h="97" row="1" col="1"/>
+  <cut w="101" x="123" y="123" h="97" row="1" col="1"/>
+  <cut w="109" x="444" y="123" h="98" row="1" col="1"/>
+  <cut w="103" x="341" y="125" h="98" row="1" col="1"/>
+  <cut w="103" x="230" y="127" h="90" row="1" col="1"/>
+  <cut w="109" x="13" y="238" h="94" row="1" col="1"/>
+  <cut w="109" x="129" y="234.25" h="97" row="1" col="1"/>
+  <cut w="109" x="245.75" y="234" h="95" row="1" col="1"/>
+ </animation>
+ <animation title="смерть" delay="150">
+  <cut w="77" x="31.25" y="331.25" h="117" row="1" col="1"/>
+  <cut w="110" x="128" y="363" h="63" row="1" col="1"/>
+  <cut w="103" x="252" y="362" h="74" row="1" col="1"/>
+ </animation>
+<animation title="смерть1" delay="150">
+  <cut w="77" x="31.25" y="331.25" h="117" row="1" col="1"/>
+  <cut w="77" x="31.25" y="331.25" h="117" row="1" col="1"/>  
+ </animation>
+<animation title="смерть2" delay="150">
+  <cut w="110" x="128" y="363" h="63" row="1" col="1"/>
+  <cut w="110" x="128" y="363" h="63" row="1" col="1"/>
+ </animation>
+<animation title="смерть3" delay="150">
+  <cut w="103" x="252" y="362" h="74" row="1" col="1"/>
+  <cut w="103" x="252" y="362" h="74" row="1" col="1"/>
+ </animation>
+</sprites>

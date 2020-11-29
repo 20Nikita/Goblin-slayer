@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="стрела.png" transparentColor="">
+ <animation title="огонь" delay="150">
+  <cut w="70" x="0" y="0" h="9" row="1" col="1"/>
+ </animation>
+</sprites>

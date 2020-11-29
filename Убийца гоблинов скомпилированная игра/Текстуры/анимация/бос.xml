@@ -1,0 +1,54 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="бос.png" transparentColor="">
+ <animation title="остановился" delay="150">
+  <cut w="286" x="2408" y="542" h="369" row="1" col="1"/>
+ </animation>
+ <animation title="начало прышка" delay="150">
+  <cut w="279" x="1722" y="275" h="241" row="1" col="1"/>
+  <cut w="279" x="1722" y="275" h="241" row="1" col="1"/>
+  <cut w="279" x="1722" y="275" h="241" row="1" col="1"/>
+ </animation>
+ <animation title="середина прышка" delay="150">
+  <cut w="361" x="2029" y="188" h="328" row="1" col="1"/>
+ </animation>
+ <animation title="конец прышка" delay="150">
+  <cut w="267" x="2409" y="230" h="286" row="1" col="1"/>
+  <cut w="267" x="2409" y="230" h="286" row="1" col="1"/>
+ </animation>
+ <animation title="стоит" delay="150">
+  <cut w="265" x="6" y="12" h="358" row="1" col="1"/>
+ </animation>
+ <animation title="удар" delay="150">
+  <cut w="309" x="11" y="613" h="298" row="1" col="1"/>
+  <cut w="278" x="699" y="582" h="329" row="1" col="1"/>
+  <cut w="281" x="991" y="585" h="326" row="1" col="1"/>
+  <cut w="389" x="1588" y="613" h="298" row="1" col="1"/>
+  <cut w="387" x="1997" y="615" h="296" row="1" col="1"/>
+ </animation>
+ <animation title="камень1" delay="200">
+  <cut w="314" x="5" y="1249" h="251" row="1" col="1"/>
+  <cut w="314" x="5" y="1249" h="251" row="1" col="1"/>
+ </animation>
+<animation title="камень2" delay="200">
+  <cut w="276" x="349" y="1018" h="449" row="1" col="1"/>
+  <cut w="276" x="349" y="1018" h="449" row="1" col="1"/>
+ </animation>
+<animation title="камень3" delay="200">
+  <cut w="312" x="655" y="936" h="531" row="1" col="1"/>
+  <cut w="312" x="655" y="936" h="531" row="1" col="1"/>
+ </animation>
+<animation title="камень4" delay="200">
+  <cut w="459" x="980" y="1201" h="266" row="1" col="1"/>
+  <cut w="459" x="980" y="1201" h="266" row="1" col="1"/>
+ </animation>
+<animation title="камень5" delay="200">
+  <cut w="456" x="1468" y="1215" h="252" row="1" col="1"/>
+  <cut w="456" x="1468" y="1215" h="252" row="1" col="1"/>
+ </animation>
+ <animation title="идет" delay="150">
+  <cut w="272" x="10" y="1600" h="332" row="1" col="1"/>
+  <cut w="323" x="308" y="1593" h="339" row="1" col="1"/>
+  <cut w="253" x="682" y="1545" h="387" row="1" col="1"/>
+  <cut w="336" x="959" y="1577" h="355" row="1" col="1"/>
+ </animation>
+</sprites>
